@@ -36,7 +36,7 @@ function App() {
     setOne(true)
     setTwo(true)
     setThree(true)
-    // setOne(false)
+    
   }
 
 
@@ -48,8 +48,8 @@ function App() {
         <img src={desktop} alt="" className='hidden md:block object-cover h-full w-screen' />
       </div>
       <div className=' w-screen flex items-center justify-center -translate-y-[90px]'>
-        <div className=' mx-6 w-screen bg-white shadow-xl shadow-darkpurple/20 rounded-md max-w-[600px]  '>
-          <div className=' px-6 bg-white'>
+        <div className=' mx-6 w-screen bg-white shadow-xl shadow-darkpurple/20 max-w-[600px]  rounded-xl md:rounded-3xl  '>
+          <div className=' px-6'>
             <div className='flex items-center gap-7 h-[90px]'>
               <img src={star} alt="" className=' h-5 w-5 object-cover' />
               <h1 className=' font-work_sans text-lg font-bold text-darkpurple'>FAQs</h1>
