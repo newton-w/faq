@@ -46,7 +46,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [newton_w](https://www.newtonwarui.com)
 - Frontend Mentor - [@newton-w](https://www.frontendmentor.io/profile/newton-w)
 - Twitter - [@newton_warui](https://www.twitter.com/newton_warui)
 
